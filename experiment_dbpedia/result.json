@@ -1,0 +1,36 @@
+{
+  "deathplace": [
+    "diedplace"
+  ],
+  "deathdate": [
+    "deathdate"
+  ],
+  "birthplace": [
+    "birthcity"
+  ],
+  "birthdate": [
+    "birthdate"
+  ],
+  "name": [
+    "name"
+  ],
+  "gender": [
+    "gender"
+  ],
+  "almamater": [
+    "almamater"
+  ],
+  "knownfor": [
+    "knownfor"
+  ],
+  "occupation": [
+    "occupation"
+  ],
+  "religion": [
+    "religion"
+  ],
+  "spouse": [
+    "spouse",
+    "spouse(s)_"
+  ]
+}
